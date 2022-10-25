@@ -1,0 +1,75 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bago{
+    background-image: url("https://img.freepik.com/free-photo/black-glitch-effect-digital-noise-texture-background_53876-103977.jpg?w=1060&t=st=1666714934~exp=1666715534~hmac=670953d47b7461dfe81cd5f83ca726feb8840bea56a23099927dd63491cdc7a0");
+    text-align: center;
+    font-family: "Roboto";
+    background-size: cover;
+}
+.bago2{
+    background-image: url("https://as2.ftcdn.net/v2/jpg/01/59/78/43/1000_F_159784364_vGnsVQAStqYXi7xz4sLtNR9zUQ8nwYMi.jpg");
+    background-size: cover;
+    font-family: "Lucida Console";
+    font-weight: bolder;
+}
+.textom{
+    color: #f4d03f;
+    font-family: "Lucida Handwriting";
+    font-weight: 900;
+    padding: 20px;
+}
+.textom2{
+    color: #ffffff;
+    font-family: "Lucida Handwriting";
+    padding: 10px;
+}
+.texto{
+    color: #0e3956;
+    font-family: "Monoton";
+    font-weight: bolder;
+    padding: 20px;
+}
+.texto2{
+    color: #0d4e7a;
+    font-family: "Brush Script MT";
+}
+.texto3{
+    color:#607488;
+    font-family: "Brush Script MT";
+}
+.texto4{
+    color: #0e3956;
+    font-family: "Playfair Display";
+    font-weight: bolder;
+    padding: 20px;
+}
+.imag{
+    height: 450px;
+    width: 600px;
+}
+
+.imag1 {
+    height: 150px;
+    width: 200px;
+}
+
+.butto {
+    color: #ffffff;
+    background-color: #000000;
+    border-width: 3px;
+    border-color: #ffffff;
+}
+
+.cardo1 {
+    background-image: url("https://img.freepik.com/free-vector/network-mesh-wire-digital-technology-background_1017-27428.jpg?w=1060&t=st=1666714780~exp=1666715380~hmac=a16b637c57132ddee8a63231bbcadd5c3ee104e4711faaba12ac9d74463e6de0");
+    color: #1f2933;
+    text-align: center;
+    margin: 100px;
+    padding: 50px;
+    border-radius: 10px;
+}
+
+.imag2 {
+    height: 400px;
+    width: 500px;
+}
